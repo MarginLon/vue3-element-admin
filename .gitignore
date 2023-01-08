@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+/.history
+/.vscode
 
 # local env files
 .env.local
